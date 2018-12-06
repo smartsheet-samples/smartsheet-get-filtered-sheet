@@ -1,4 +1,4 @@
-# Smartsheet Get FIltered Sheet
+# Smartsheet Get Filtered Sheet
 
 ## Get the data of a sheet and return only the rows that match a given criteria.
 
