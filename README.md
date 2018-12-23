@@ -15,7 +15,7 @@ This module solves this by:
 
 ## Installation
 ```
-not yet published to npm
+npm install smartsheet-get-filtered-sheet
 ```
 
 ## Usage
